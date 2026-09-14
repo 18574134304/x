@@ -1,4 +1,4 @@
-import{a as e,c as t,d as n,f as r,g as i,h as a,i as o,l as s,m as c,n as l,o as u,p as d,r as f,s as p,t as m,u as h}from"./index-JbsjQdmA.js";var g={start:{id:`start`,text:`
+import{a as e,c as t,d as n,f as r,g as i,h as a,i as o,l as s,m as c,n as l,o as u,p as d,r as f,s as p,t as m,u as h}from"./index-CDNcRQFi.js";var g={start:{id:`start`,text:`
 2026年10月15日。
 
 雨下了一整天。
